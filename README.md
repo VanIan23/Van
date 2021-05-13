@@ -1,3 +1,14 @@
- Van Ian Villanueva. No professional atm
-to be rich
-I'm believing that fintech is the future.
+ #Van Ian Villanueva. No professional atm
+The **bold** *description*
+*do this
+
+'''
+print('Hello world')
+'''
+>"... quote style"
+>
+[my preferences](references)
+
+![my photo]()
+
+Hello
